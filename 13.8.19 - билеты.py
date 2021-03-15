@@ -20,5 +20,5 @@ total = count_kids * 0 + count_young * 990 + count_full * 1390
 #  print(total)  # just checking if sum works
 if (count_kids + count_young + count_full) > 3:
     total = total - total//10
-print("You sum is: ", total)
+print("Your sum is: ", total)
 print("Enjoy the conference to the fullest!")  # 'we still don't forget to be polite
